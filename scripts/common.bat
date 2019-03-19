@@ -1,0 +1,2 @@
+set VIVADO_HOME=D:\Program\Xilinx
+set VIVADO_VERSION=2018.1
